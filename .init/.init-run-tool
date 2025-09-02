@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh && cd db_visualizer && PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/certification-automation-platform-69-78/certification_metadata_db"
+}
